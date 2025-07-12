@@ -1,13 +1,13 @@
 ---
-date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+date: "3"
+title: "Inspired from MIT-Scratch"
+cover: "./MIT-Scratch.png"
+external: "https://mit-scratch-clone-peeyush-goyal.netlify.app"
+github: "hhttps://github.com/peeyush14goyal/MIT-Scratch"
+cta: ""
 tech:
   - React
-  - Express
-  - Spotify API
+  - CSS
   - Styled Components
 ---
 

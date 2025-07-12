@@ -1,14 +1,10 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'peeyushgoyal154@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://github.com/peeyushgoyal14',
     },
     {
       name: 'Twitter',
@@ -16,11 +12,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/peeyush-goyal154',
     },
   ],
 
@@ -44,7 +36,7 @@ module.exports = {
   ],
 
   colors: {
-    green: '#64ffda',
+    green: '#ff79c6',
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },
